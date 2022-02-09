@@ -1,0 +1,55 @@
+				Instrucciones 
+1.- ¿De qué trata el juego?
+
+	Se trata de hallar el camino más corto entre dos vertices
+	de un grafo, estos dos puntos son el representado por la
+	letra 'A' y el representado por la última letra presente 
+	del alfabeto (Depende del nivel).
+
+2.- ¿Cómo se juega?
+
+	2.1- Se inicia el juego presionando en 'Jugar', lo primero
+	es colocar el nombre con el cual se guardará tu puntaje.
+	
+	2.2- Una vez estando en en la pantalla de juego, presione
+	el boton 'Empezar'. Hecho esto, se le presentará un grafo
+	(de 5 vertices, al tratarse del nivel 1) y el tiempo co-
+	menzará a correr.
+
+	2.3- Si los datos necesarios del grafo no se distinguen de
+	manera correcta o faltan conexiones (aristas) entre los 
+	vertices, presione el botón 'Redibujar'. Hagalo lo más rá-
+	pido posible, el tiempo no se detendrá ni reinicirá.
+
+	2.4- Una vez haya identificado los vertices a recorrer 
+	consecutivamente, después de 'A', seleccione en el orden 
+	correcto uno por uno en la zona derecha de la pantalla;
+	presionando el botón 'Seleccionar' después de escoger uno
+	de los vertices en la lista que está sobre el botón men-
+	cionado. De haberse equivocado, puede presionar el botón
+	'Borrar selección'.
+
+	2.5- Habiendo seleccionado el orden mínimo necesario que 
+	considera correcto, presione el botón 'Listo!' para com-
+	probar su respuesta; de ser correcta podrá avanzar de 
+	nivel, en caso contrario vuelva a intentar (cuenta con 3
+	oportunidades para toda la partida).
+
+	2.6- De haber dado la respuesta correcta se le habilitará
+	el botón 'Siguiente nivel', una vez presione en él podrá 
+	ver el puntaje que lleva acumulado hasta el momento en la
+	el centro inferior e la pantalla. Para empezar el nuevo 
+	nivel presione el botón 'Empezar', el tiempo comenzará a 
+	correr, se le presentará un grafo con un vertice más que 
+	el anterior y lo demás, es continuar hasta perder o ¿Lle-
+	gar al máximo nivel?.
+
+3.- ¿Y el puntaje?
+	
+	Se guardará una vez salgas de la partida. Cada nivel te
+	dará un puntaje fijo si logras completarlo (mayor nivel,
+	mayor puntaje fijo) junto con un bonus dependiendo del 
+	tiempo que tardaste en completar el nivel (mayor nivel,
+	mayor margen para obtener puntos por tiempo).
+
+			Diviértete :D
